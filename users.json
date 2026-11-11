@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz",
+    "address": { "street": "Main Street", "city": "Gwenborough", "zipcode": "92998-3874" },
+    "company": { "name": "Romaguera-Crona" } },
+  { "id": 2, "name": "Ervin Howell", "username": "Antonette", "email": "Shanna@melissa.tv",
+    "address": { "street": "Main Street", "city": "Wisokyburgh", "zipcode": "90566-7771" },
+    "company": { "name": "Deckow-Crist" } }
+]
